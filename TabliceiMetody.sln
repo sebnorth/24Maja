@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie4", "Zadanie4\Zadani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie6", "Zadanie6\Zadanie6.csproj", "{6F821A4D-9492-48D6-AB81-5EF2A015763B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzegladarkaObrazkow", "PrzegladarkaObrazkow\PrzegladarkaObrazkow.csproj", "{47DA5865-CE5F-4842-B984-F44CA3016403}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6F821A4D-9492-48D6-AB81-5EF2A015763B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F821A4D-9492-48D6-AB81-5EF2A015763B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F821A4D-9492-48D6-AB81-5EF2A015763B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DA5865-CE5F-4842-B984-F44CA3016403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DA5865-CE5F-4842-B984-F44CA3016403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DA5865-CE5F-4842-B984-F44CA3016403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DA5865-CE5F-4842-B984-F44CA3016403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
