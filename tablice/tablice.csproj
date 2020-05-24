@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E425DD98-42F2-4E21-97D5-F202FF457592}</ProjectGuid>
+    <ProjectGuid>{D94EA7A3-FD9C-497E-ACAC-680C0F0D3B80}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TabliceiMetody</RootNamespace>
-    <AssemblyName>TabliceiMetody</AssemblyName>
+    <RootNamespace>tablice</RootNamespace>
+    <AssemblyName>tablice</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,8 +44,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TylkoDodaj.cs" />
-    <Compile Include="TylkoOdejmij.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
